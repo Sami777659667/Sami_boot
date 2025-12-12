@@ -1,0 +1,5 @@
+python-telegram-bot==20.4
+flask
+gunicorn
+requests
+psutil
